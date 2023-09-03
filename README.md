@@ -1,2 +1,2 @@
 # Iphone_2007
-class UML and (soon) implementation.
+Simple class UML and (soon) implementation.
